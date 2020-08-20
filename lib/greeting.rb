@@ -1,3 +1,4 @@
 def greeting(name)
-  name= 
+  name= gets.strip
+  
 end
